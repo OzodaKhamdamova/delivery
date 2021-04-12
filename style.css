@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.container{
+    max-width: 1635px;
+
+}
+header{
+    background-color: #F6F8FF;
+    
+   
+}
+.first-line{
+    display: flex;
+   
+}
+.logo{
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-left: 140px;
+}
+.nav-link{
+    display: flex;
+}
+.nav-item{
+    list-style-type: none;
+    margin-right: 62px;
+    margin-top: 55px;
+}
+.link-item{
+  text-decoration: none;
+  color: #172F53;
+}
+.sign{
+    margin-left: auto;
+    margin-top: 72px;
+    
+}
+.sign-item{
+    text-decoration: none;
+    margin-right: 50px;
+    color: #172F53;
+}
+.intro{
+    display: flex;
+}
+.intro-text{
+    width: 600px;
+    margin-left: 131px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 100px;
+}
+.intro-heading{
+    font-size: 44px;
+}
+.intro-paragraph{
+    color: #7D7D7D;
+}
+.track-form{
+    max-width: 1000px;
+    background-color: #fff;
+    border-radius: 10px;
+   margin-left: 160px;
+   padding-bottom: 50px;
+    
+  
+}
+.track-label{
+    font-weight: 600;
+    font-size: 25px;
+    padding-top: 41px;
+    padding-left: 50px;
+}
+.track-span{
+    font-weight: normal;
+    font-size: 16px;
+   
+}
+#track{
+    width: 500px;
+    height: 50px;
+    border: none;
+    background-color: #EFEFEF;
+    border-radius: 10px;
+    padding-left: 30px;
+    margin-left: 50px;
+}
+.track-btn{
+    background-color: #21D8E3;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+   
+}
